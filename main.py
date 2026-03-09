@@ -234,7 +234,6 @@ def extrair_dados_perfil(texto_bruto):
     # Devolve o dicionário final com o que conseguiu extrair.
 
 
-
 def extrair_dados_lusha(dados_brutos):
     # Recebe o texto copiado da tela do Lusha e tenta extrair email e telefones.
 
@@ -287,7 +286,6 @@ def extrair_dados_lusha(dados_brutos):
 
     return informacoes
     # Devolve email/celular/telefone.
-
 
 
 def executar_automacao():
@@ -529,7 +527,6 @@ def executar_automacao():
 
         time.sleep(8)
         # Espera (para evitar ir rápido demais / garantir que foco ficou correto).
-
 
 
 if __name__ == "__main__":
