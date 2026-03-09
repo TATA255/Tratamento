@@ -536,3 +536,6 @@ if __name__ == "__main__":
     # Ponto de entrada: esse bloco só roda quando você executa o arquivo diretamente.
     executar_automacao()
     # Chama a automação principal.
+    
+
+# teste de mensagem github
